@@ -22,7 +22,7 @@ The CNN model consists of 4 convolutional layers, each followed by a max pooling
 - The trained model -2 achieved an accuracy of 87.32% on the test set.
 
 
-##Dependencies
+## Dependencies
 The project requires the following dependencies:
 
 - TensorFlow
