@@ -18,12 +18,11 @@ The CNN model consists of 4 convolutional layers, each followed by a max pooling
  transfer learning was used with the MobileNet model as the base. The last layer of the MobileNet model was replaced with a new output layer with 29 nodes, corresponding to the number of classes in the dataset. The model was trained for 15 epochs
 
 ## Results
-The trained model -1 achieved an accuracy of 79.51% on the test set.
+- The trained model -1 achieved an accuracy of 79.51% on the test set.
+- The trained model -2 achieved an accuracy of 87.32% on the test set.
 
-The trained model -2 achieved an accuracy of 87.32% on the test set.
 
-
-Dependencies
+##Dependencies
 The project requires the following dependencies:
 
 - TensorFlow
