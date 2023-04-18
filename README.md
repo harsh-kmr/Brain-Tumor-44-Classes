@@ -19,6 +19,7 @@ The CNN model consists of 4 convolutional layers, each followed by a max pooling
 
 ## Results
 The trained model -1 achieved an accuracy of 79.51% on the test set.
+
 The trained model -2 achieved an accuracy of 87.32% on the test set.
 
 
